@@ -1,0 +1,19 @@
+{
+	"name": "xiaxiao002/woostify-sites-library",
+	"description": "",
+	"keywords": [
+		"wordpress",
+		"plugin"
+	],
+	"homepage":"https://github.com/xiaxiao002/woostify-sites-library",
+	"authors": [
+		{
+		"name": "woostify-sites-library",
+		"homepage":"https://eileenlue.com"
+		}
+	],
+	"type": "wordpress-plugin",
+	"require": {
+		"php": ">5.6"
+	}
+}
